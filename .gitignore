@@ -1,0 +1,4 @@
+msk-cluster-test/.terraform.lock.hcl
+msk-cluster-test/terraform.tfstate
+msk-cluster-test/terraform.tfstate.backup
+msk-cluster-test/.terraform/providers/registry.terraform.io/hashicorp/aws/3.5.0/windows_amd64/terraform-provider-aws_v3.5.0_x5.exe
